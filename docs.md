@@ -32,3 +32,7 @@ https://docs.python.org/3/library/csv.html
 ## MIME Type - How data is served to the browser
 
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types
+
+## installs the required dependencies when pushing to production
+
+pip3 freeze > requirements.txt
